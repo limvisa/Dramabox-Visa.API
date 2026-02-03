@@ -28,16 +28,3 @@ A powerful desktop application for downloading high-quality videos from DramaBox
 1. **Download the latest release** from the [Releases](https://github.com/limvisa/Dramabox-Visa.API/releases) page
 2. **Run the installer** or executable file
 3. **No additional software required** - It's a standalone application
-
-### Option 2: Run from Source Code
-
-#### Prerequisites:
-- Python 3.8 or higher
-- pip (Python package manager)
-
-#### Installation Steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/limvisa/Dramabox-Visa.API.git
-   cd Dramabox-Visa.API
