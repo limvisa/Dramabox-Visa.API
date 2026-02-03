@@ -7,7 +7,7 @@ A powerful desktop application for downloading high-quality videos from DramaBox
 ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
-![DramaBox Downloader Interface](screenshot.png)
+![DramaBox Downloader Interface](Screenshot 2026-02-03 181423.png)
 
 ## ✨ Features
 
