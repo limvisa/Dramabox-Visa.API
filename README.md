@@ -25,7 +25,7 @@ A powerful desktop application for downloading high-quality videos from DramaBox
 
 ### Option 1: Download Executable (Recommended for Windows Users)
 
-1. **Download the latest release** from the [Releases](https://github.com/yourusername/dramabox-downloader/releases) page
+1. **Download the latest release** from the [Releases](https://github.com/limvisa/Dramabox-Visa.API/releases) page
 2. **Run the installer** or executable file
 3. **No additional software required** - It's a standalone application
 
@@ -39,5 +39,5 @@ A powerful desktop application for downloading high-quality videos from DramaBox
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/dramabox-downloader.git
-   cd dramabox-downloader
+   git clone https://github.com/limvisa/Dramabox-Visa.API.git
+   cd Dramabox-Visa.API
